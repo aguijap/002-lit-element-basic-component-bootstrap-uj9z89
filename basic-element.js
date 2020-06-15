@@ -17,7 +17,7 @@ class BasicElement extends LitElement {
         <div class="card">
           <h4 class="card-header bg-primary text-white ">Basic component by y</h4>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item">name: ${this.name2}</li>
+              <li class="list-group-item">Name: ${this.name}</li>
             </ul>
         </div>
     `;
